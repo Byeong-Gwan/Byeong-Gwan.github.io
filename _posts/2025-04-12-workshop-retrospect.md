@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "워크샵 회고"
+categories: coding
+tag: [회사, 워크샵, blog]
 ---
 
 # 💬 워크샵 회고: 
