@@ -18,7 +18,7 @@ tag: [JavaScript]
    예) 변수, 함수, this 등
 - 호이스팅: var, function 으로 선언된 것은 코드 맨 위로 끌어올려져 먼저 등록 됨.
 
-``` Javascript
+```javascript
 // 변수의 호이스팅
 console.log(x); // undefined
 var x = 10;
@@ -26,7 +26,7 @@ console.log(x); // 10
 ```
 |❗ 변수 선언(var x)은 위로 끌어올려져 있으나, 값 할당(x = 10)은 그 줄에서 실행됨.
 
-``` Javascript
+```javascript
 // 함수의 호이스팅
 sayHi(); // '안녕하세요!'
 
